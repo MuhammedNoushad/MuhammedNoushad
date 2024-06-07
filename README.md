@@ -1,6 +1,6 @@
 ![Header](./githubheader.png)
 <h1 align="center">Hi 👋, I'm Muhammed Noushad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate mern stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/dscycqmhw/image/upload/v1708174646/Codefeast/Courses/wtqss28inwyucb30m0hd.gif">
 
